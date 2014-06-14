@@ -1,6 +1,8 @@
 <?php
 
-namespace CristianSitov\CoffeeMachine\Dashboard;
+die("here");
+
+namespace CristianSitov\CoffeeMachine;
 
 class Dashboard {
 	public function __construct() {
