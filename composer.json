@@ -1,0 +1,25 @@
+{
+    "name": "esoh/coffee-machine/dashboard",
+    "type": "library",
+    "description": "Esoh Git Project Dashboard",
+    "homepage": "http://e-spres-oh.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Sitov",
+            "email": "cristian.sitov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "monolog/monolog": ">=1.0,<1.3-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Esoh": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
