@@ -1,6 +1,6 @@
 <?php
 
-namespace CristianSitov\CoffeeMachine;
+namespace CristianSitov\CoffeeMachine\Dashboard;
 
 class Dashboard {
 	public function __construct() {
