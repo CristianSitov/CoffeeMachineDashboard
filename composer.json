@@ -14,12 +14,9 @@
         "php": ">=5.3.3",
         "monolog/monolog": ">=1.0,<1.3-dev"
     },
-    "require-dev": {
-    },
     "autoload": {
-        "psr-0": {
-            "Esoh": "src/"
+        "psr-4": {
+            "CristianSitov": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
