@@ -1,5 +1,5 @@
 {
-    "name": "cristiansitov/coffeemachine-dashboard",
+    "name": "cristiansitov/coffee-machine-dashboard",
     "type": "library",
     "description": "Esoh Git Project Dashboard",
     "homepage": "http://e-spres-oh.com",
@@ -14,11 +14,5 @@
         "php": ">=5.3.3",
         "monolog/monolog": ">=1.0,<1.3-dev"
     },
-    "autoload": {
-        "psr-0": {
-            "CristianSitov\\Dashboard": ""
-        }
-    },
-    "target-dir": "CristianSitov/Dashboard",
     "minimum-stability": "dev"
 }
